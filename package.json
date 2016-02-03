@@ -1,0 +1,33 @@
+{
+  "name": "quovo-multitenant-test",
+  "version": "0.1.0",
+  "description": "testing unique usernames",
+  "homepage": "https://github.com/btakita/quovo-multitenant-test",
+  "repository": "portfoliome/censible-quovo",
+  "author": "Brian Takita & Portfolio.me",
+  "engines": {
+    "node": "5.2.0"
+  },
+  "scripts": {},
+  "keywords": [
+    "portfoliome censible quovo"
+  ],
+  "dependencies": {
+    "babel-cli": "^6.4.5",
+    "babel-core": "^6.4.5",
+    "babel-loader": "^6.2.1",
+    "babel-polyfill": "^6.3.14",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "babel-preset-stage-2": "^6.3.13",
+    "btoa-lite": "^1.0.0",
+    "co": "^4.6.0",
+    "js-console-color": "^0.2.0",
+    "xhr2": "^0.1.3",
+    "yargs": "^3.32.0"
+  },
+  "devDependencies": {},
+  "preferGlobal": true,
+  "files": [],
+  "bin": {}
+}
